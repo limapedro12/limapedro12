@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning a lot of things 🌱
+
 <!--
 **limapedro12/limapedro12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
