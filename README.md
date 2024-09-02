@@ -5,8 +5,8 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 
 - 🌱 I’m currently learning the Rust language and Software Architecture
 - 📫 How to reach me:
-    -Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
-     -LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
+  -Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
+  -LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
 
 ## 🛠️ Skills
 - **Programming Languages**: C, C++, Python, Java, R 
@@ -24,7 +24,7 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
   - Faculty of Engineering in University of Porto (FEUP) | 2024 - 2026
 
 ## 🏆 Projects
-Here are a few of the projects I’ve worked on in university:
+Here are a few of the projects I’ve worked on, while in university:
 - C++:
     - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 - C:
