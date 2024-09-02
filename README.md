@@ -14,14 +14,14 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 - **Knoledge in these Areas**: Algorithms, Data Structures, Computer Networks, Distributed Systems, Parallel Computation, Cryptography, Cybersecurity Fundamentals, Machine Learning, Graphical Computation
 
 ## 💼 Work Experience
-- [Data Engeneering Intern] at [JTA The Data Scientists] | [February 2024 to July 2024]
+- Data Engeneering Intern at JTA The Data Scientists | February 2024 - July 2024
   - Restructuring a Data Processing System into a Microservices Architecture
 
 ## 🎓 Education
 - **Bachelor's Degree in Informatics and Computing Engineering**
-  - Faculty of Engineering, University of Porto (FEUP) | [2021-2024]
+  - Faculty of Engineering in University of Porto (FEUP) | 2021 - 2024
 - Currently attending **Master's Degree in Informatics and Computing Engineering**
-  - Faculty of Engineering, University of Porto (FEUP) | [2024-2026]
+  - Faculty of Engineering in University of Porto (FEUP) | 2024 - 2026
 
 ## 🏆 Projects
 Here are a few of the projects I’ve worked on in university:
@@ -38,7 +38,7 @@ Here are a few of the projects I’ve worked on in university:
 - Other:
      - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=limapedro12&show_icons=true&theme=radical)
+[//]: <> ## 📊 GitHub Stats
+[//]: <> ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=limapedro12&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limapedro12&layout=compact&theme=radical)
+[//]: <> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limapedro12&layout=compact&theme=radical)
