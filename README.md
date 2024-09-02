@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a recent graduate from the Bachelor's degree in Informatics and Computing Engineering from the Faculty of Engineering in University of Porto (FEUP). I'm passionate about technology, coding, and solving complex problems. I am currently attending Master's degree in Informatics and Computing Engineering at FEUP.
 
-- 🌱 I’m currently learning Rust languages and Topics within Software Architecture
+- 🌱 I’m currently learning the Rust language and Software Architecture
 - 📫 How to reach me:
     -Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
      -LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
@@ -26,7 +26,7 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 ## 🏆 Projects
 Here are a few of the projects I’ve worked on in university:
 - C++:
-      - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
+    - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 - C:
     - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 - Java:
@@ -38,7 +38,8 @@ Here are a few of the projects I’ve worked on in university:
 - Other:
      - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 
-[//]: <> ## 📊 GitHub Stats
-[//]: <> ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=limapedro12&show_icons=true&theme=radical)
-
-[//]: <> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limapedro12&layout=compact&theme=radical)
+<!---
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=limapedro12&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limapedro12&layout=compact&theme=radical)
+-->
