@@ -9,7 +9,7 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
   -LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
 
 ## 🛠️ Skills
-- **Programming Languages**: C, C++, Python, Java, R 
+- **Programming Languages**: C, C++, Python, Java, Javascript, SQL, HTML, CSS
 - **Tools and Platforms**: Git, Docker, Kubernetes, Azure, Google Cloud
 - **Knoledge in these Areas**: Algorithms, Data Structures, Computer Networks, Distributed Systems, Parallel Computation, Cryptography, Cybersecurity Fundamentals, Machine Learning, Graphical Computation
 
