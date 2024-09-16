@@ -9,9 +9,9 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
   - LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
 
 ## 🛠️ Skills
-- **Programming Languages**: C, C++, Python, Java, Javascript, SQL, HTML, CSS
+- **Programming Languages**: C, C++, Solidity, Python, Java, Javascript, SQL, HTML, CSS
 - **Tools and Platforms**: Git, Docker, Kubernetes, Azure, Google Cloud
-- **Knowledge in these Areas**: Algorithms, Data Structures, Computer Networks, Distributed Systems, Parallel Computation, Cryptography, Cybersecurity Fundamentals, Machine Learning, Graphical Computation
+- **Knowledge in these Areas**: Algorithms, Data Structures, Computer Networks, Distributed Systems, Parallel Computation, Cryptography, Cybersecurity Fundamentals, Machine Learning, Graphical Computation, Blockchain and Smart Contracts
 
 ## 💼 Work Experience
 - Data Engeneering Intern at JTA The Data Scientists | February 2024 - July 2024
@@ -32,7 +32,9 @@ Here are a few of the projects I’ve worked on, while in university:
     - **Travelling Salesman Problem**: Program to find the optimal solution or near optimal solutions to the travelling salesman problem. Course: Algorithm Design. [Link to repository](https://github.com/limapedro12/DA_Proj2)
     - **Parallel Matrix Multiplication**: The assignment 1 of this projects uses the OpenMP, a C++ API for parallel computing, to do matrix multiplication. Course: Parallel and Distributed Computing. [Link to repository](https://github.com/limapedro12/CPD_ParallelAndDistributed)
 - C:
-    - **Defend the Base**: Implementation of a game called "Defend the Base" using low level concepts, such as I/O registers, Interupts, the GPU memory and Event-based programming. To do so we used the Minix 3 OS and the LCF framework. [Link to repository]. Course: .(https://github.com/limapedro12/LCOM_DefendTheBase/)
+    - **Defend the Base**: Implementation of a game called "Defend the Base" using low level concepts, such as I/O registers, Interupts, the GPU memory and Event-based programming. To do so we used the Minix 3 OS and the LCF framework. Course: Computer Laboratory. [Link to repository](https://github.com/limapedro12/LCOM_DefendTheBase/)
+    - **New Commands**: Creation of new hypotetical shell commands. Course: Operating Systems. [Link to repository](https://github.com/limapedro12/SO_TrabalhoPratico)
+    - **Computer Networks**: Implementation of a Serial Port Protocol (first project) and a description of the steps to configure a set of routers and swiches (second project). Course: Computer Networks. [Link to repository]([https://github.com/limapedro12/SO_TrabalhoPratico]) 
 - Java:
     - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 - Web Development (HTML, CSS, JavaScript and PHP):
