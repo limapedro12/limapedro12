@@ -30,8 +30,9 @@ Here are a few of the projects I’ve worked on, while in university:
     - **Flights Insight**: Program to find flights around the world. Course: Algorithms and Data Structures. [Link to repository](https://github.com/marco-vb/FEUP-flights-insight)
     - **Railway Network**: Program to manage the portuguese railway network. Course: Algorithm Design. [Link to repository](https://github.com/limapedro12/DA_Proj1)
     - **Travelling Salesman Problem**: Program to find the optimal solution or near optimal solutions to the travelling salesman problem. Course: Algorithm Design. [Link to repository](https://github.com/limapedro12/DA_Proj2)
+    - **Parallel Matrix Multiplication**: The assignment 1 of this projects uses the OpenMP, a C++ API for parallel computing, to do matrix multiplication. Course: Parallel and Distributed Computing. [Link to repository](https://github.com/limapedro12/CPD_ParallelAndDistributed)
 - C:
-    - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
+    - **Defend the Base**: Implementation of a game called "Defend the Base" using low level concepts, such as I/O registers, Interupts, the GPU memory and Event-based programming. To do so we used the Minix 3 OS and the LCF framework. [Link to repository]. Course: .(https://github.com/limapedro12/LCOM_DefendTheBase/)
 - Java:
     - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 - Web Development (HTML, CSS, JavaScript and PHP):
