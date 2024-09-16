@@ -27,7 +27,7 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 ## 🏆 Projects
 Here are a few of the projects I’ve worked on, while in university:
 - C++:
-    - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
+    - **Flights Insight**: Flight finding system. Course: Algorithms and Data Structures. [Link to repository](https://github.com/marco-vb/FEUP-flights-insight)
 - C:
     - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 - Java:
