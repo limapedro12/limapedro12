@@ -4,11 +4,12 @@
 I'm a recent graduate from the Bachelor's degree in Informatics and Computing Engineering from the Faculty of Engineering in University of Porto (FEUP), and I finished the degree with a GPA(Grade Point Average) of 18, in a scale of 0-20, or A-, in a scale of A-F. I'm passionate about technology, coding, and solving complex problems. I am currently attending Master's degree in Informatics and Computing Engineering at FEUP.
 
 - 🌱 I’m currently learning the Rust language and Software Architecture
-- **Bachelor's Degree in Informatics and Computing Engineering**
+- 📫 How to reach me:
   - Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
+  - LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
 - 📫 How to reach me:
     -Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
-    -LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
+    -
 
 ## 🛠️ Skills
 - **Programming Languages**: C, C++, Python, Java, Javascript, SQL, HTML, CSS
