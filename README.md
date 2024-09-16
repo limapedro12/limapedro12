@@ -5,8 +5,8 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 
 - 🌱 I’m currently learning the Rust language and Software Architecture
 - 📫 How to reach me:
-  -Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
-  -LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
+    -Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
+    -LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
 
 ## 🛠️ Skills
 - **Programming Languages**: C, C++, Python, Java, Javascript, SQL, HTML, CSS
@@ -20,7 +20,7 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 ## 🎓 Education
 - **Bachelor's Degree in Informatics and Computing Engineering**
   - Faculty of Engineering in University of Porto (FEUP) | 2021 - 2024
-  - GPA: 18 (scale of 0-20) or A- (scale of A-F)
+  - GPA: 18 (scale 0-20) or A- (scale A-F)
 - Currently attending **Master's Degree in Informatics and Computing Engineering**
   - Faculty of Engineering in University of Porto (FEUP) | 2024 - 2026
 
