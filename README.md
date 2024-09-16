@@ -7,9 +7,6 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 - 📫 How to reach me:
   - Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
   - LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
-- 📫 How to reach me:
-    -Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
-    -
 
 ## 🛠️ Skills
 - **Programming Languages**: C, C++, Python, Java, Javascript, SQL, HTML, CSS
