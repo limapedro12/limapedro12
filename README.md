@@ -1,7 +1,7 @@
 # Hi there, I'm Pedro Lima 👋
 
 ## 🚀 About Me
-I'm a recent graduate from the Bachelor's degree in Informatics and Computing Engineering from the Faculty of Engineering in University of Porto (FEUP). I'm passionate about technology, coding, and solving complex problems. I am currently attending Master's degree in Informatics and Computing Engineering at FEUP.
+I'm a recent graduate from the Bachelor's degree in Informatics and Computing Engineering from the Faculty of Engineering in University of Porto (FEUP), and I finished the degree with a GPA(Grade Point Average) of 18, in a scale of 0-20, or A-, in a scale of A-F. I'm passionate about technology, coding, and solving complex problems. I am currently attending Master's degree in Informatics and Computing Engineering at FEUP.
 
 - 🌱 I’m currently learning the Rust language and Software Architecture
 - 📫 How to reach me:
@@ -11,7 +11,7 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 ## 🛠️ Skills
 - **Programming Languages**: C, C++, Python, Java, Javascript, SQL, HTML, CSS
 - **Tools and Platforms**: Git, Docker, Kubernetes, Azure, Google Cloud
-- **Knoledge in these Areas**: Algorithms, Data Structures, Computer Networks, Distributed Systems, Parallel Computation, Cryptography, Cybersecurity Fundamentals, Machine Learning, Graphical Computation
+- **Knowledge in these Areas**: Algorithms, Data Structures, Computer Networks, Distributed Systems, Parallel Computation, Cryptography, Cybersecurity Fundamentals, Machine Learning, Graphical Computation
 
 ## 💼 Work Experience
 - Data Engeneering Intern at JTA The Data Scientists | February 2024 - July 2024
@@ -20,6 +20,7 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 ## 🎓 Education
 - **Bachelor's Degree in Informatics and Computing Engineering**
   - Faculty of Engineering in University of Porto (FEUP) | 2021 - 2024
+  - GPA: 18 (scale of 0-20) or A- (scale of A-F)
 - Currently attending **Master's Degree in Informatics and Computing Engineering**
   - Faculty of Engineering in University of Porto (FEUP) | 2024 - 2026
 
