@@ -27,7 +27,9 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
 ## 🏆 Projects
 Here are a few of the projects I’ve worked on, while in university:
 - C++:
-    - **Flights Insight**: Flight finding system. Course: Algorithms and Data Structures. [Link to repository](https://github.com/marco-vb/FEUP-flights-insight)
+    - **Flights Insight**: Program to find flights around the world. Course: Algorithms and Data Structures. [Link to repository](https://github.com/marco-vb/FEUP-flights-insight)
+    - **Railway Network**: Program to manage the portuguese railway network. Course: Algorithm Design. [Link to repository](https://github.com/limapedro12/DA_Proj1)
+    - **Travelling Salesman Problem**: Program to find the optimal solution or near optimal solutions to the travelling salesman problem. Course: Algorithm Design. [Link to repository](https://github.com/limapedro12/DA_Proj2)
 - C:
     - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 - Java:
