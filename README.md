@@ -34,13 +34,14 @@ Here are a few of the projects I’ve worked on, while in university:
 - C:
     - **Defend the Base**: Implementation of a game called "Defend the Base" using low level concepts, such as I/O registers, Interupts, the GPU memory and Event-based programming. To do so we used the Minix 3 OS and the LCF framework. Course: Computer Laboratory. [Link to repository](https://github.com/limapedro12/LCOM_DefendTheBase/)
     - **New Commands**: Creation of new hypotetical shell commands. Course: Operating Systems. [Link to repository](https://github.com/limapedro12/SO_TrabalhoPratico)
-    - **Computer Networks**: Implementation of a Serial Port Protocol (first project) and a description of the steps to configure a set of routers and swiches (second project). Course: Computer Networks. [Link to repository]([https://github.com/limapedro12/SO_TrabalhoPratico]) 
+    - **Computer Networks**: Implementation of a Serial Port Protocol (first project) and a description of the steps to configure a set of routers and swiches (second project). Course: Computer Networks. [Link to repository](https://github.com/limapedro12/SO_TrabalhoPratico) 
 - Java:
-    - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
+    - **Space Invaders**: Implementation of the Space Invaders Game, using the Lanterna framework, various Design Patterns and Unit Tests. Course: Software Design and Testing Laboratory. [Link to repository](https://github.com/limapedro12/space_invaders)
+    - **Java-- Compiler**: Compiler for a subset of Java. Course: Compilers. [Link to repository](https://github.com/limapedro12/COMP_Java--_Compiler)
 - Web Development (HTML, CSS, JavaScript and PHP):
     - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
-- Python
-     - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
+- Python:
+     - **Dodge 'Em**: Implementation of the game Dodge 'Em using PyGame. [Link to repository](https://github.com/yourusername/projectname)
 - Other:
      - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 
