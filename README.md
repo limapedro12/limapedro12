@@ -33,7 +33,7 @@ Here are a few of the projects I’ve worked on, while in university:
     - **Parallel Matrix Multiplication**: The assignment 1 of this projects uses the OpenMP, a C++ API for parallel computing, to do matrix multiplication. Course: Parallel and Distributed Computing. [Link to repository](https://github.com/limapedro12/CPD_ParallelAndDistributed)
 - C:
     - **Defend the Base**: Implementation of a game called "Defend the Base" using low level concepts, such as I/O registers, Interupts, the GPU memory and Event-based programming. To do so we used the Minix 3 OS and the LCF framework. Course: Computer Laboratory. [Link to repository](https://github.com/limapedro12/LCOM_DefendTheBase/)
-    - **New Commands**: Creation of new hypotetical shell commands. Course: Operating Systems. [Link to repository](https://github.com/limapedro12/SO_TrabalhoPratico)
+    - **New Commands**: Creation of new hypotetical shell commands, using system calls. Course: Operating Systems. [Link to repository](https://github.com/limapedro12/SO_TrabalhoPratico)
     - **Computer Networks**: Implementation of a Serial Port Protocol (first project) and a description of the steps to configure a set of routers and swiches (second project). Course: Computer Networks. [Link to repository](https://github.com/limapedro12/SO_TrabalhoPratico) 
 - Java:
     - **Space Invaders**: Implementation of the Space Invaders Game, using the Lanterna framework, various Design Patterns and Unit Tests. Course: Software Design and Testing Laboratory. [Link to repository](https://github.com/limapedro12/space_invaders)
@@ -41,7 +41,9 @@ Here are a few of the projects I’ve worked on, while in university:
 - Web Development (HTML, CSS, JavaScript and PHP):
     - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 - Python:
-     - **Dodge 'Em**: Implementation of the game Dodge 'Em using PyGame. [Link to repository](https://github.com/yourusername/projectname)
+     - **Dodge 'Em**: Implementation of the game Dodge 'Em using PyGame. Course: Programming Fundamentals.[Link to repository](https://github.com/limapedro12/dodge-em-atari)
+     - **Fanorona**: Implementation of the game Fanorona and various algorithms to solve them, namely Minimax and Monte Carlo Tree Search. Course: Artificial Intelligence. [Link to repository]()
+     - **Space Data**: Analysis and creation of Machine Learning Models on SSA, Space... Course: Artificial Intelligence. [Link to repository]()
 - Other:
      - **[Project Name]**: [One-liner about the project]. [Link to repository](https://github.com/yourusername/projectname)
 
