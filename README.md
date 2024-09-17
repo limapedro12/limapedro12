@@ -42,13 +42,14 @@ Here are a few of the projects I’ve worked on, while in university:
 - Web Development (HTML, CSS, Javascript and PHP):
     - **Dá⬝lhe ticket**: Online tickets website called *Dá⬝lhe ticket*, using native PHP, CSS, Javadcript and SQLite. Course: Web Languages and Technologies. [Link to repository](https://github.com/yourusername/projectname)
     - **RedHot**: Online shop, that sells various spicy products, using the PHP framework Laravel, native CSS, Javascript and PostgreSQL. Course: Database and Web Applications Laboratory. [Link to repository](https://github.com/limapedro12/LBAW_RedHot_OnlineStore)
-    - **Bee Game**: A 3D game based on controlling a bee around an enviroment, accessed via a web browser, using WebGL, a Javascript framework similar to OpenGL. Course: Computer Graphics. [Link to repository](https://github.com/limapedro12/CG_BeeGame)
 - Python:
      - **Dodge 'Em**: Implementation of the game *Dodge 'Em* using PyGame. Course: Programming Fundamentals.[Link to repository](https://github.com/limapedro12/dodge-em-atari)
      - **Fanorona**: Implementation of the game *Fanorona* and various algorithms to solve them, namely Minimax and Monte Carlo Tree Search. Course: Artificial Intelligence. [Link to repository]()
      - **Space Data**: Analysis and creation of Machine Learning Models on SSA, Space... Course: Artificial Intelligence. [Link to repository]()
 - Other:
-     - **Cybersecurity**: A set of guides of how we resolved the SEED Labs Exercises. [Link to repository](https://github.com/limapedro12/FSI_Cybersecurity)
+     - **Cybersecurity**: A set of guides of how we resolved the SEED Labs Exercises. Course: Computer Security Foundations.[Link to repository](https://github.com/limapedro12/FSI_Cybersecurity)
+     - **Bee Game**: A 3D game based on controlling a bee around an enviroment, using WebGL, a Javascript framework similar to OpenGL. Course: Computer Graphics. [Link to repository](https://github.com/limapedro12/CG_BeeGame)
+     - **Teach Me Well**: Creation of an Android App to rate teachers of the University of Porto, using Flutter. Course: Software Engineering. [Link to repository](https://github.com/limapedro12/ESOF_App)
 
 <!---
 ## 📊 GitHub Stats
