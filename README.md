@@ -40,7 +40,7 @@ Here are a few of the projects I’ve worked on, while in university:
     - **Java-- Compiler**: Compiler for a subset of Java. Course: Compilers. [Link to repository](https://github.com/limapedro12/COMP_Java--_Compiler)
     - **Game Lobby**: The assignment 2 of this projects is a game lobby implementation that allows multiple remote players to connect and automatically creates new games between players. Course: Parallel and Distributed Computing. [Link to repository](https://github.com/limapedro12/CPD_ParallelAndDistributed)
 - Web Development (HTML, CSS, Javascript and PHP):
-    - **Dá⬝lhe ticket**: Online tickets website called *Dá⬝lhe ticket*, using native PHP, CSS, Javadcript and SQLite. Course: Web Languages and Technologies. [Link to repository](https://github.com/yourusername/projectname)
+    - **Dá⬝lhe ticket**: Online tickets website called *Dá⬝lhe ticket*, using native PHP, CSS, Javadcript and SQLite. Course: Web Languages and Technologies. [Link to repository](https://github.com/limapedro12/project-ltw05g02)
     - **RedHot**: Online shop, that sells various spicy products, using the PHP framework Laravel, native CSS, Javascript and PostgreSQL. Course: Database and Web Applications Laboratory. [Link to repository](https://github.com/limapedro12/LBAW_RedHot_OnlineStore)
 - Python:
      - **Dodge 'Em**: Implementation of the game *Dodge 'Em* using PyGame. Course: Programming Fundamentals.[Link to repository](https://github.com/limapedro12/dodge-em-atari)
