@@ -52,6 +52,8 @@ Here are a few of the projects I’ve worked on, while in university:
      - **Bee Game**: A 3D game based on controlling a bee around an enviroment, using WebGL, a Javascript framework similar to OpenGL. Course: Computer Graphics. [Link to repository](https://github.com/limapedro12/CG_BeeGame)
      - **Teach Me Well**: Creation of an Android App to rate teachers of the University of Porto, using Flutter. Course: Software Engineering. [Link to repository](https://github.com/limapedro12/ESOF_App)
      - **Imperative Language Compiler**: Implementation o a compiler/interpreter of a subset of the C language, using the Haskell framework Parsec. Course: Functional and Logic Programming. [Link to repository](https://github.com/limapedro12/PFL_Compiler)
+     - **Search Engine for StackOverflow**: Created a search engine with Solr for StackOverflow questions and answers from January 2023. [Link to repository](https://github.com/limapedro12/PRI_StackOverflow)
+  
 
 <!---
 ## 📊 GitHub Stats
