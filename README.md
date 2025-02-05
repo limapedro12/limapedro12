@@ -8,10 +8,21 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
   - Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
   - LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
 
-## 🛠️ Skills
-- **Programming Languages**: C, C++, Solidity, Python, Java, Javascript, SQL, HTML, CSS
-- **Tools and Platforms**: Git, Docker, Kubernetes, Azure, Google Cloud
-- **Knowledge in these Areas**: Algorithms, Data Structures, Computer Networks, Distributed Systems, Parallel Computation, Cryptography, Cybersecurity Fundamentals, Machine Learning, Graphical Computation, Blockchain and Smart Contracts
+## Skills
+- **System Design & Architecture**: Designed fault-tolerant and distributed systems using event driven architectures, microservices, agent-oriented architectures and correct-by-construction software.
+- **Agile & Collaboration**: Worked in Scrum teams, using Agile best practices, including sprints, product backlog, Git, branches and code reviews for efficient development.
+- **Scalability & Performance**: Built high-performance applications using concurrency, parallelism, caching, load balancing, and database optimization techniques.
+- **Software Development Principles**: Strong foundation in SOLID principles, Design Patterns, TDD and detecting Code Smells.
+- **Algorithms and Data Structures**: From simple data structures to complex algorithms.
+- **AI & Data Processing**: Worked with ETL pipelines, data cleaning, transformation and basic experience with ML models.
+
+## 🛠️ Technologies
+- **Cloud & Containerization**: Azure (ADF, Virtual Machines), Docker, Kubernetes, Git, Github Actions.
+- **Web & Backend Development**: RESTful APIs, WebSockets, HTML, CSS, Javascript, Next.js and PHP
+- **Database Technologies**: SQL (PostgreSQL, SQLite), NoSQL (MongoDB, Firebase) and Vector DBs.
+- **AI & Data Processing**: Pandas, Numpy, Scikit-Learn, PyTorch and R.
+- **Blockchain & Smart Contracts**: Solidity, Truffle, Yul
+- **Various other Programming Languages**: Python, C, C++, Java, Haskell, etc.
 
 ## 💼 Work Experience
 - Data Engeneering Intern at JTA The Data Scientists | February 2024 - July 2024
