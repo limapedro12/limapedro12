@@ -1,14 +1,14 @@
 # Hi there, I'm Pedro Lima 👋
 
-## 🚀 About Me
+## 🗺 About Me
 I'm a recent graduate from the Bachelor's degree in Informatics and Computing Engineering from the Faculty of Engineering in University of Porto (FEUP), and I finished the degree with a GPA(Grade Point Average) of 18, in a scale of 0-20, or A-, in a scale of A-F. I'm passionate about technology, coding, and solving complex problems. I am currently attending Master's degree in Informatics and Computing Engineering at FEUP.
 
-- 🌱 I’m currently learning the Rust language and Software Architecture
+- 🌱 I love to travel, hang with friends and meditate.
 - 📫 How to reach me:
   - Email:  [lima.pedro.0000@gmail.com](mailto:lima.pedro.0000@gmail.com)
   - LinkedIn: [Pedro Lima](https://www.linkedin.com/in/pedro-lima-b55558295)
 
-## Skills
+## 💻 Skills
 - **System Design & Architecture**: Designed fault-tolerant and distributed systems using event driven architectures, microservices, agent-oriented architectures and correct-by-construction software.
 - **Agile & Collaboration**: Worked in Scrum teams, using Agile best practices, including sprints, product backlog, Git, branches and code reviews for efficient development.
 - **Scalability & Performance**: Built high-performance applications using concurrency, parallelism, caching, load balancing, and database optimization techniques.
