@@ -1,5 +1,7 @@
 # Hi there, I'm Pedro Lima 👋
 
+![](https://komarev.com/ghpvc/?username=limapedro12)
+
 ## 🗺 About Me
 I'm a recent graduate from the Bachelor's degree in Informatics and Computing Engineering from the Faculty of Engineering in University of Porto (FEUP), and I finished the degree with a GPA(Grade Point Average) of 18, in a scale of 0-20, or A-, in a scale of A-F. I'm passionate about technology, coding, and solving complex problems. I am currently attending Master's degree in Informatics and Computing Engineering at FEUP.
 
