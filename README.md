@@ -56,6 +56,7 @@ Here are a few of the projects I’ve worked on, while in university:
 - Web Development (HTML, CSS, Javascript and PHP):
     - **Dá⬝lhe ticket**: Online tickets website called *Dá⬝lhe ticket*, using native PHP, CSS, Javadcript and SQLite. Course: Web Languages and Technologies. [Link to repository](https://github.com/limapedro12/project-ltw05g02)
     - **RedHot**: Online shop, that sells various spicy products, using the PHP framework Laravel, native CSS, Javascript and PostgreSQL. Course: Database and Web Applications Laboratory. [Link to repository](https://github.com/limapedro12/LBAW_RedHot_OnlineStore)
+    - **ZScore**: Platform, made in partenership with [zerozero](www.zerozero.pt) for indoor scoreboards management and display. Built-in visualization and management tools for Basketball, Volleyball, and Futsal scoreboards. [Link to repository](https://github.com/limapedro12/LGP_ZScore_ZeroZero)
 - Python:
      - **Dodge 'Em**: Implementation of the game *Dodge 'Em* using PyGame. Course: Programming Fundamentals.[Link to repository](https://github.com/limapedro12/dodge-em-atari)
      - **Fanorona**: Implementation of the game *Fanorona* and various algorithms to solve them, namely Minimax and Monte Carlo Tree Search. Course: Artificial Intelligence. [Link to repository](https://github.com/limapedro12/IA_Fanorona)
