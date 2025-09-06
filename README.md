@@ -38,7 +38,15 @@ I'm a recent graduate from the Bachelor's degree in Informatics and Computing En
   - Faculty of Engineering in University of Porto (FEUP) | 2024 - 2026
 
 ## 🏆 Projects
-Here are a few of the projects I’ve worked on, while in university:
+I have selected the best projects I’ve worked on, while in university:
+- **Fault-Tolerant Distributed Shopping List**: The aim of this project is to create a fault-tolerant and distributed system to store shopping lists, using CRDTs to ensure consistency, ZeroMQ and a server side architecture similar to Amazon Dynamo. [Link to repository](https://github.com/limapedro12/SDLE_ShoppingList)
+- **ZScore**: Platform, made in partenership with [zerozero](www.zerozero.pt) for indoor scoreboards management and display. Built-in visualization and management tools for Basketball, Volleyball, and Futsal scoreboards. [Link to repository](https://github.com/limapedro12/LGP_ZScore_ZeroZero)
+- **RedHot**: Online shop, that sells various spicy products, using the PHP framework Laravel, native CSS, Javascript and PostgreSQL. Course: Database and Web Applications Laboratory. [Link to repository](https://github.com/limapedro12/LBAW_RedHot_OnlineStore)
+- **Software Systems Architecture**: We explored five diverse topics, designing the architecture for four innovative systems, documenting them, and analyzing an existing framework. [Link to repository](https://github.com/limapedro12/ASSO_ArchitectVariousSystems)
+- **Flights Insight**: Program to find flights around the world. Course: Algorithms and Data Structures. [Link to repository](https://github.com/marco-vb/FEUP-flights-insight)
+- **Defend the Base**: Implementation of a game called *Defend the Base* using low level concepts, such as I/O registers, Interupts, the GPU memory and Event-based programming. To do so we used the Minix 3 OS and the LCF framework. Course: Computer Laboratory. [Link to repository](https://github.com/limapedro12/LCOM_DefendTheBase/)
+
+Here are the complete list of projects from university:
 - C++:
     - **Flights Insight**: Program to find flights around the world. Course: Algorithms and Data Structures. [Link to repository](https://github.com/marco-vb/FEUP-flights-insight)
     - **Railway Network**: Program to manage the portuguese railway network. Course: Algorithm Design. [Link to repository](https://github.com/limapedro12/DA_Proj1)
